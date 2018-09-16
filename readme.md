@@ -1,10 +1,14 @@
 # Tracker
 Tracker is a expense tracker using the following technologies:
 
-## React
+### React
 
-## Redux
+### Redux
 
-## Firebase
+### Firebase
 
-## Webpack
+### Webpack
+
+### Sass
+
+### Jest
